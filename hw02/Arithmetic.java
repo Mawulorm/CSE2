@@ -2,7 +2,9 @@
 // September 9th, 2014
 // hw-02
 // Arithmetic Java Program
-
+// This program displays the various number of items bought at Walmart and their individual costs
+// The tax percentage on various items are also displayed below
+// Total cost including and excluding tax can be found below
 public class Arithmetic {
     
     public static void main(String [ ] args) {
